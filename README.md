@@ -1,55 +1,77 @@
 # Hr_Analystics
 <img width="1229" height="686" alt="image" src="https://github.com/user-attachments/assets/1e4b9693-aff2-46fc-8693-978d8fd03916" />
 
-HR Analytics Dashboard
+# HR Analytics Dashboard
 
-An interactive HR Analytics Dashboard built using Power BI to analyze employee attrition, salary trends, department-wise performance, and workforce insights.
-This dashboard helps HR teams make data-driven decisions and identify key factors affecting employee retention.
+## Project Overview
 
-Dashboard Preview
+The HR Analytics Dashboard is built using Power BI to analyze employee attrition, workforce trends, salary distribution, and department performance. This dashboard helps organizations understand employee behavior and improve retention strategies through data-driven insights.
 
-Project Overview
+---
 
-This project focuses on analyzing HR employee data to uncover patterns related to:
+## Dashboard Preview
 
-Employee Attrition
-Salary Distribution
-Job Role Analysis
-Department-wise Performance
-Employee Age Group Trends
-Education Background Insights
+![HR Dashboard](images/hr_dashboard.png)
 
-The dashboard provides clear visual insights for better workforce planning and employee retention strategies.
+---
 
-Key KPIs
-Overall Employees
-Attrition Count
-Attrition Rate
-Average Salary
-Average Employee Age
-Years at Company
-Insights Generated
+## Objectives
 
-✔ Highest attrition observed in Laboratory Technician role
-✔ Employees with salary up to 5K show higher attrition
-✔ Age group 26–35 has maximum attrition
-✔ Life Sciences background employees contribute highest attrition
-✔ Research & Development department shows major employee turnover
+- Analyze employee attrition trends
+- Identify high-risk employee groups
+- Understand salary and age distribution
+- Monitor department-wise performance
+- Improve employee retention strategies
 
-Tools & Technologies Used
-Power BI
-SQL
-Excel
-Power Query
-DAX
-Features
-Interactive Filters
-Department-wise Analysis
-Dynamic KPI Cards
-Attrition Trend Analysis
-Salary Band Analysis
-Employee Demographics Visualization
-Folder Structure
+---
+
+## Tools Used
+
+- Power BI
+- SQL
+- Excel
+- Power Query
+- DAX
+
+---
+
+## Key KPIs
+
+| KPI | Value |
+|---|---|
+| Overall Employees | 961 |
+| Attrition Count | 133 |
+| Attrition Rate | 13.8% |
+| Average Age | 37.04 |
+| Average Salary | 6.28K |
+| Average Years at Company | 6.86 |
+
+---
+
+## Key Insights
+
+- Employees aged 26–35 show the highest attrition.
+- Employees with salary up to 5K have maximum attrition.
+- Laboratory Technicians face the highest employee turnover.
+- Life Sciences education background contributes the highest attrition.
+- Most employees leave within the first few years at the company.
+
+---
+
+## Dashboard Features
+
+- Interactive Filters and Slicers
+- Department-wise Analysis
+- Attrition Trend Analysis
+- Salary Analysis
+- Employee Demographics Visualization
+- Dynamic KPI Cards
+
+---
+
+## Folder Structure
+
+```text
 HR-Analytics-Dashboard/
 │
 ├── README.md
@@ -57,19 +79,26 @@ HR-Analytics-Dashboard/
 ├── dataset.csv
 └── images/
     └── hr_dashboard.png
-How to Use
-Download the .pbix file
-Open in Power BI Desktop
-Refresh dataset if needed
-Explore dashboard using filters and slicers
-Business Impact
+```
 
-This dashboard helps organizations:
+---
 
-Reduce employee attrition
-Improve HR decision-making
-Identify high-risk employee segments
-Understand workforce trends
-Optimize retention strategies
+## How to Use
+
+1. Download the `.pbix` file  
+2. Open it in Power BI Desktop  
+3. Refresh the dataset if required  
+4. Explore the dashboard using filters and visuals  
+
+---
+
+## Business Impact
+
+This dashboard helps organizations improve HR decision-making, reduce employee attrition, and identify important workforce trends for better planning and retention strategies.
+
+
+
+
+
 
 
