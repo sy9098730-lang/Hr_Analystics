@@ -7,13 +7,7 @@
 
 The HR Analytics Dashboard is built using Power BI to analyze employee attrition, workforce trends, salary distribution, and department performance. This dashboard helps organizations understand employee behavior and improve retention strategies through data-driven insights.
 
----
 
-## Dashboard Preview
-
-![HR Dashboard](images/hr_dashboard.png)
-
----
 
 ## Objectives
 
